@@ -1,12 +1,37 @@
 {
-    "users": [
+
+"users": [
         {
-            "id": 1488,
-            "name":"Abobik",
-            "surname":"AbobikAbobicky",
+            "id": 14,
+            "name":"Danil",
+            "surname":"Ranzoko",
             "photo_url": "https://yt3.googleusercontent.com/ytc/AIdro_nalEeK-2snQX8pqfTeIpBptWOFrLAcoZM7YdkDt8zjqis=s900-c-k-c0x00ffffff-no-rj",
-            "balance": 1488000000000000
-        }
-    ]
+            "balance": 1000000000
+        },
+
+
+    {
+        "id": 15,
+        "name": "Mark",
+        "surname": "Zinchenko",
+        "photo_url": "https://github.blog/wp-content/uploads/2024/07/github-logo.png",
+        "balance": 2000
+    }
+
+
+    ],
+
+    "products":[{
+        "name": "redbull",
+        "price": 5
+    }
+
+
+
+]
+
+
+
+
 
 }
