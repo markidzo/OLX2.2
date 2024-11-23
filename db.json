@@ -8,6 +8,14 @@
     }
 
 
-    ]
+    ],
+
+    "products":[{
+        "name": "redbull",
+        "price": 5
+    }]
+
+
+
 
 }
