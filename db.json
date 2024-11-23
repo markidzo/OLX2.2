@@ -1,5 +1,12 @@
 {
-    "users": [
+    "users": [{
+        "id": 15,
+        "name": "Mark",
+        "surname": "Zinchenko",
+        "photo_url": "https://github.blog/wp-content/uploads/2024/07/github-logo.png",
+        "balance": 2000
+    }
+
 
     ]
 
