@@ -24,6 +24,10 @@
     "products":[{
         "name": "redbull",
         "price": 5
+    },
+    {
+        "name": "chipsi",
+        "price": 2
     }
 
 
