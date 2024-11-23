@@ -1,6 +1,12 @@
 {
     "users": [
-
+        {
+            "id": 1488,
+            "name":"Abobik",
+            "surname":"AbobikAbobicky",
+            "photo_url": "https://yt3.googleusercontent.com/ytc/AIdro_nalEeK-2snQX8pqfTeIpBptWOFrLAcoZM7YdkDt8zjqis=s900-c-k-c0x00ffffff-no-rj",
+            "balance": 1488000000000000
+        }
     ]
 
 }
