@@ -8,21 +8,12 @@
             "photo_url": "https://yt3.googleusercontent.com/ytc/AIdro_nalEeK-2snQX8pqfTeIpBptWOFrLAcoZM7YdkDt8zjqis=s900-c-k-c0x00ffffff-no-rj",
             "balance": 1000000000
         },
-
-    {
-        "id": 14,
-        "name":"Danil",
-        "surname":"Ranzoko",
-        "photo_url": "https://yt3.googleusercontent.com/ytc/AIdro_nalEeK-2snQX8pqfTeIpBptWOFrLAcoZM7YdkDt8zjqis=s900-c-k-c0x00ffffff-no-rj",
-        "balance": 1000000000
-    },
-  
     {
     "id": "8748378578378957387275891830478701835807679278898876453423536557708898980927468524563463653579839478574",
     "neme": " ",
     "surname": "Rukret",
-    "balance": 1500
-    },
+     "balance": 1500
+     },
 
     {
         "id": 15,
